@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81906a716f2a5444bdbccffea43b80e, type: 3}
+  m_Name: BleedingEffect
+  m_EditorClassIdentifier: 
+  duration: 6
+  chance: 0.8
+  icon: {fileID: 21300000, guid: d5a85d4dd87075542818d460d8cd7edd, type: 3}
+  particlePrefab: {fileID: 9114410260542735449, guid: 308e91b0eec8590469dd064f8b57bd28, type: 3}
+  particleOffset: {x: 0, y: 1, z: 0}
+  damagePerTick: 3
+  tickInterval: 2

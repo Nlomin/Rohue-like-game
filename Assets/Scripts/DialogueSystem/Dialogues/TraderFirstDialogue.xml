@@ -1,0 +1,8 @@
+<dialogues uid="6">
+  <message uid="1" speaker="NPC" action="none">Здравствуй, давненько у меня не было покупателей</message>
+  <message uid="2" speaker="Player2" action="none">Интересно... ты не нападаешь на меня, в отличие от других</message>
+  <message uid="3" speaker="NPC" action="none">Знаешь, я и сам не знаю, почему они это делают...</message>
+  <message uid="4" speaker="NPC" action="none">Ну да ладно, как видишь, у меня тут магазин</message>
+  <message uid="5" speaker="NPC" action="none">Не хочешь прикупить чего-нибудь?</message>
+  <message uid="6" speaker="Player2" action="end">Посмотрю, что у тебя есть</message>
+</dialogues>

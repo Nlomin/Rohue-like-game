@@ -1,0 +1,5 @@
+<dialogues uid="3">
+  <message uid="1" speaker="NPC" action="none">Не ожидал тебя снова здесь увидеть</message>
+  <message uid="2" speaker="Player2" action="none">Да я и сам, если честно, не ожидал...</message>
+  <message uid="3" speaker="NPC" action="end">Выбрал что-нибудь?</message>
+</dialogues>
