@@ -91,7 +91,7 @@ Rogue-like игра с процедурной генерацией уровне�
 ---
 
 ## Скачать билд
-https://github.com/Nlomin/Rohue-like-game/releases/download/v0.1.0-prototype
+https://github.com/Nlomin/Rohue-like-game/releases/tag/v0.1.0-prototype
 
 ## Видео-презентация проекта
 https://youtu.be/wYk2SM8I4CE
