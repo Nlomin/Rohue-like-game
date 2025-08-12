@@ -54,6 +54,9 @@ Rogue-like игра с процедурной генерацией уровне�
 
 ## Скриншоты
 <p float="left">
+  <img src="Docs/ProceduralGeneration.png" width="45%" />
+</p>
+<p float="left">
   <img src="Docs/Gameplay_01.png" width="45%" />
   <img src="Docs/Gameplay_02.png" width="45%" />
   <img src="Docs/Gameplay_03.png" width="45%" />
@@ -76,6 +79,7 @@ Rogue-like игра с процедурной генерацией уровне�
   <img src="Docs/Shop_01.png" width="45%" />
   <img src="Docs/Shop_02.png" width="45%" />
 </p>
+
 
 ---
 
